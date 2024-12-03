@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z890 Aorus Elite X ICE, Intel Core Ultra 7 265K, AMD Radeon RX 6900 XT
 
+![Overview](https://github.com/user-attachments/assets/6888ce7d-38c3-4085-9097-9bf882ed0ad0)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.1.1)
