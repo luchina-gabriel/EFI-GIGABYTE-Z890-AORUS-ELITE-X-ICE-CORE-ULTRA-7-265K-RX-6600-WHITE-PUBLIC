@@ -1,0 +1,1247 @@
+{
+  "date": "2024-12-02 22:07:47 -0300",
+  "document_type": 0,
+  "document_version": 6,
+  "branch": "rosedale-main-build",
+  "browser": {
+    "url": "https://browser.geekbench.com/v6/cpu/9208428"
+  },
+  "build": 603408,
+  "checksum": "e7a61effdc982f82dd026033e6eec7f8119586c3",
+  "commit": "bca065a7d9",
+  "options": {
+    "iterations": 5,
+    "cpu_workers": 0,
+    "memory_workers": 0,
+    "workload_gap": 5000
+  },
+  "platform": {
+    "os": "macOS",
+    "architecture": "x86_64",
+    "bits": 64
+  },
+  "processor_frequency": {
+    "frequencies": [
+      4800,
+      4802,
+      4801,
+      4801,
+      4802,
+      4801,
+      4801,
+      4802,
+      4802,
+      4802,
+      4802,
+      4801,
+      4802,
+      4802,
+      4802,
+      4802,
+      4801,
+      4801,
+      4802,
+      4802,
+      4802,
+      4800,
+      4802,
+      4802,
+      4801,
+      4802,
+      4801,
+      4801,
+      4802,
+      4801,
+      4801,
+      4802,
+      4802,
+      4802,
+      4802,
+      4801,
+      4802,
+      4802,
+      4802,
+      4802,
+      4801,
+      4801,
+      4802,
+      4802,
+      4802,
+      4803,
+      5501,
+      5501,
+      5501
+    ]
+  },
+  "runtime": 243.26904522000001,
+  "system_uuid": "e419f83385896bdc6735ef7cdb12b5fa3b3d9937",
+  "clock": 0.001235358,
+  "uuid": "31a65dc69fb44a8ab39d9b6935664ead",
+  "version": "Geekbench 6.3.0",
+  "metrics": [
+    {
+      "id": 1,
+      "value": "macOS AVX2",
+      "ivalue": 0
+    },
+    {
+      "id": 2,
+      "value": "Clang 16.0.0 ",
+      "ivalue": 0
+    },
+    {
+      "id": 3,
+      "value": "macOS 15.1.1 (Build 24B91)",
+      "ivalue": 0
+    },
+    {
+      "id": 4,
+      "value": "MacPro7,1",
+      "ivalue": 0
+    },
+    {
+      "id": 5,
+      "value": "MacPro7,1",
+      "ivalue": 0
+    },
+    {
+      "id": 6,
+      "value": "Acidanthera Mac-27AD2F918AE68F61 MacPro7,1",
+      "ivalue": 0
+    },
+    {
+      "id": 7,
+      "value": "GenuineIntel Family 6 Model 198 Stepping 2",
+      "ivalue": 0
+    },
+    {
+      "id": 8,
+      "value": "Intel(R) Core(TM) Ultra 7 265K",
+      "ivalue": 0
+    },
+    {
+      "id": 9,
+      "value": "Intel(R) Core(TM) Ultra 7 265K",
+      "ivalue": 0
+    },
+    {
+      "id": 12,
+      "value": "20",
+      "ivalue": 20
+    },
+    {
+      "id": 13,
+      "value": "20",
+      "ivalue": 20
+    },
+    {
+      "id": 14,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 15,
+      "value": "3.87 GHz",
+      "ivalue": 3870000000
+    },
+    {
+      "id": 17,
+      "value": "64.0 KB",
+      "ivalue": 65536
+    },
+    {
+      "id": 18,
+      "value": "20",
+      "ivalue": 20
+    },
+    {
+      "id": 19,
+      "value": "32.0 KB",
+      "ivalue": 32768
+    },
+    {
+      "id": 20,
+      "value": "20",
+      "ivalue": 20
+    },
+    {
+      "id": 21,
+      "value": "4.00 MB",
+      "ivalue": 4194304
+    },
+    {
+      "id": 22,
+      "value": "2",
+      "ivalue": 2
+    },
+    {
+      "id": 23,
+      "value": "30.0 MB",
+      "ivalue": 31457280
+    },
+    {
+      "id": 24,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 25,
+      "value": "0.00 B",
+      "ivalue": 0
+    },
+    {
+      "id": 26,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 27,
+      "value": "400 MHz",
+      "ivalue": 400000000
+    },
+    {
+      "id": 29,
+      "value": "48.0 GB",
+      "ivalue": 51539607552
+    },
+    {
+      "id": 30,
+      "value": "RAM",
+      "ivalue": 0
+    },
+    {
+      "id": 31,
+      "value": "Acidanthera 2069.0.0.0.0",
+      "ivalue": 0
+    },
+    {
+      "id": 34,
+      "value": "AMD Radeon RX 6900 XT",
+      "ivalue": 0
+    },
+    {
+      "id": 38,
+      "value": "Acidanthera",
+      "ivalue": 0
+    },
+    {
+      "id": 39,
+      "value": "0x7",
+      "ivalue": 7
+    },
+    {
+      "id": 45,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 46,
+      "value": "20 Cores",
+      "ivalue": 0
+    },
+    {
+      "id": 47,
+      "value": "20",
+      "ivalue": 20
+    },
+    {
+      "id": 74,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 88,
+      "value": "Clang",
+      "ivalue": 0
+    },
+    {
+      "id": 89,
+      "value": "3870 MHz",
+      "ivalue": 3870
+    },
+    {
+      "id": 90,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 93,
+      "value": "20",
+      "ivalue": 20
+    },
+    {
+      "id": 94,
+      "value": "0x1",
+      "ivalue": 1
+    },
+    {
+      "id": 117,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 84,
+      "value": "",
+      "ivalue": 243269
+    },
+    {
+      "id": 85,
+      "value": "",
+      "ivalue": 243000
+    },
+    {
+      "id": 86,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 10,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 11,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 16,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 28,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 75,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 76,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 77,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 78,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 79,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 80,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 81,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 82,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 32,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 33,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 66,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 67,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 68,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 69,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 87,
+      "value": "",
+      "ivalue": 0
+    }
+  ],
+  "multicore_score": 20904,
+  "score": 3008,
+  "valid": 1,
+  "sections": [
+    {
+      "name": "Single-Core",
+      "id": 1,
+      "score": 3008,
+      "valid": 1,
+      "workloads": [
+        {
+          "name": "File Compression",
+          "id": 101,
+          "units": 2,
+          "threads": 1,
+          "score": 2854,
+          "factory_clock": 1.53474675,
+          "factory_runtime": 0.082761811000000005,
+          "workload_clock": 1.617523099,
+          "runtime": 1.4552791417499999,
+          "runtime_warmup": 1.4458260360000001,
+          "runtimes": [
+            1.435059096,
+            1.4799431600000001,
+            1.459335735,
+            1.446778576
+          ],
+          "valid": 1,
+          "rate": 429786411.45634353,
+          "work": 625459200,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Navigation",
+          "id": 102,
+          "units": 26,
+          "threads": 1,
+          "score": 2767,
+          "factory_clock": 13.891852756,
+          "factory_runtime": 3.4241e-5,
+          "workload_clock": 13.891898197000002,
+          "runtime": 1.4395124685000003,
+          "runtime_warmup": 1.4208190600000001,
+          "runtimes": [
+            1.4646296810000001,
+            1.3819725270000001,
+            1.380505504,
+            1.5309421620000001
+          ],
+          "valid": 1,
+          "rate": 16.672311303429321,
+          "work": 24,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "HTML5 Browser",
+          "id": 103,
+          "units": 25,
+          "threads": 1,
+          "score": 2898,
+          "factory_clock": 26.326448953,
+          "factory_runtime": 0.0055424340000000006,
+          "workload_clock": 26.331999179,
+          "runtime": 0.13485441200000001,
+          "runtime_warmup": 0.24551819100000002,
+          "runtimes": [
+            0.13608472600000002,
+            0.134308345,
+            0.13456219900000002,
+            0.13446237800000002
+          ],
+          "valid": 1,
+          "rate": 59.323235193817759,
+          "work": 8,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "PDF Renderer",
+          "id": 104,
+          "units": 9,
+          "threads": 1,
+          "score": 3114,
+          "factory_clock": 32.155786304999999,
+          "factory_runtime": 0.0015165630000000001,
+          "workload_clock": 32.157312226999998,
+          "runtime": 0.48623313850000005,
+          "runtime_warmup": 0.605106068,
+          "runtimes": [
+            0.49395635000000004,
+            0.48066286900000005,
+            0.48519472600000002,
+            0.48511860900000003
+          ],
+          "valid": 1,
+          "rate": 71824063.879595071,
+          "work": 34923240,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Photo Library",
+          "id": 105,
+          "units": 20,
+          "threads": 1,
+          "score": 3275,
+          "factory_clock": 39.726422531000004,
+          "factory_runtime": 0.024329251000000003,
+          "workload_clock": 39.750763245000002,
+          "runtime": 0.35995581400000004,
+          "runtime_warmup": 0.41041856100000002,
+          "runtimes": [
+            0.36895656600000004,
+            0.35839836200000003,
+            0.35595217500000004,
+            0.356516153
+          ],
+          "valid": 1,
+          "rate": 44.449900175803236,
+          "work": 16,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Clang",
+          "id": 201,
+          "units": 23,
+          "threads": 1,
+          "score": 3113,
+          "factory_clock": 47.315752169,
+          "factory_runtime": 0.002238131,
+          "workload_clock": 47.317999962000002,
+          "runtime": 0.51011775400000015,
+          "runtime_warmup": 0.51045512000000004,
+          "runtimes": [
+            0.52623555700000002,
+            0.50487283500000002,
+            0.50519607500000008,
+            0.50416654900000002
+          ],
+          "valid": 1,
+          "rate": 15329.793834229102,
+          "work": 7820,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Text Processing",
+          "id": 202,
+          "units": 25,
+          "threads": 1,
+          "score": 3310,
+          "factory_clock": 54.875556934000002,
+          "factory_runtime": 0.027715771,
+          "workload_clock": 54.903282355000002,
+          "runtime": 0.72049070424999995,
+          "runtime_warmup": 0.70640139600000007,
+          "runtimes": [
+            0.76845965199999999,
+            0.698681899,
+            0.69926354300000004,
+            0.71555772300000009
+          ],
+          "valid": 1,
+          "rate": 265.09710517198533,
+          "work": 191,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Asset Compression",
+          "id": 203,
+          "units": 2,
+          "threads": 1,
+          "score": 2632,
+          "factory_clock": 63.598568297000007,
+          "factory_runtime": 0.030433599000000002,
+          "workload_clock": 63.629014008000006,
+          "runtime": 1.6408493330000002,
+          "runtime_warmup": 1.392956324,
+          "runtimes": [
+            1.4144607790000001,
+            1.8641963970000002,
+            1.861502489,
+            1.423237667
+          ],
+          "valid": 1,
+          "rate": 85515639.478886858,
+          "work": 140318280,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Object Detection",
+          "id": 301,
+          "units": 20,
+          "threads": 1,
+          "score": 3090,
+          "factory_clock": 76.592278469000007,
+          "factory_runtime": 0.049337245000000002,
+          "workload_clock": 76.641629458000011,
+          "runtime": 0.173049118,
+          "runtime_warmup": 0.26027303000000002,
+          "runtimes": [
+            0.176201516,
+            0.171446343,
+            0.17098805,
+            0.173560563
+          ],
+          "valid": 1,
+          "rate": 92.459298174521749,
+          "work": 16,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Background Blur",
+          "id": 302,
+          "units": 20,
+          "threads": 1,
+          "score": 3823,
+          "factory_clock": 82.608799286000007,
+          "factory_runtime": 0.066736429,
+          "workload_clock": 82.675548355000004,
+          "runtime": 0.63209398800000005,
+          "runtime_warmup": 0.808401645,
+          "runtimes": [
+            0.63129506700000004,
+            0.63130887400000002,
+            0.63457618500000001,
+            0.63119582600000002
+          ],
+          "valid": 1,
+          "rate": 15.820432071567179,
+          "work": 10,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Horizon Detection",
+          "id": 401,
+          "units": 9,
+          "threads": 1,
+          "score": 3761,
+          "factory_clock": 91.025237662999999,
+          "factory_runtime": 0.23553195000000002,
+          "workload_clock": 91.260785808000009,
+          "runtime": 0.41012411300000007,
+          "runtime_warmup": 0.52018126600000003,
+          "runtimes": [
+            0.41870957800000003,
+            0.41270588200000002,
+            0.40468079600000001,
+            0.40440019600000005
+          ],
+          "valid": 1,
+          "rate": 117037741.69454892,
+          "work": 48000000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Object Remover",
+          "id": 402,
+          "units": 9,
+          "threads": 1,
+          "score": 2940,
+          "factory_clock": 98.448986576999999,
+          "factory_runtime": 0.097254475000000007,
+          "workload_clock": 98.54625346600001,
+          "runtime": 1.5965311387500001,
+          "runtime_warmup": 1.5990752240000001,
+          "runtimes": [
+            1.599180437,
+            1.5600270860000001,
+            1.547439231,
+            1.6794778010000002
+          ],
+          "valid": 1,
+          "rate": 226067134.7021668,
+          "work": 360923220,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "HDR",
+          "id": 403,
+          "units": 9,
+          "threads": 1,
+          "score": 2501,
+          "factory_clock": 111.541590845,
+          "factory_runtime": 0.002856674,
+          "workload_clock": 111.54445770700001,
+          "runtime": 0.90538044350000002,
+          "runtime_warmup": 1.0468057660000001,
+          "runtimes": [
+            0.90837434700000008,
+            0.9048352260000001,
+            0.90471082000000003,
+            0.90360138100000009
+          ],
+          "valid": 1,
+          "rate": 73398430.987867922,
+          "work": 66453504,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Photo Filter",
+          "id": 404,
+          "units": 20,
+          "threads": 1,
+          "score": 2903,
+          "factory_clock": 121.23310598600001,
+          "factory_runtime": 2.9178000000000001e-5,
+          "workload_clock": 121.23314493300001,
+          "runtime": 0.34718858999999996,
+          "runtime_warmup": 0.45885748900000001,
+          "runtimes": [
+            0.37203310700000003,
+            0.336115314,
+            0.33769737599999999,
+            0.342908563
+          ],
+          "valid": 1,
+          "rate": 28.802789861268199,
+          "work": 10,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Ray Tracer",
+          "id": 501,
+          "units": 9,
+          "threads": 1,
+          "score": 2395,
+          "factory_clock": 128.583005128,
+          "factory_runtime": 0.72084475400000003,
+          "workload_clock": 129.303866564,
+          "runtime": 0.43149306025,
+          "runtime_warmup": 0.44155056300000001,
+          "runtimes": [
+            0.39987493500000004,
+            0.442183669,
+            0.44191430100000001,
+            0.44199933600000002
+          ],
+          "valid": 1,
+          "rate": 2317534.3756875633,
+          "work": 1000000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Structure from Motion",
+          "id": 502,
+          "units": 9,
+          "threads": 1,
+          "score": 3161,
+          "factory_clock": 136.62469338600002,
+          "factory_runtime": 0.133099565,
+          "workload_clock": 136.757804365,
+          "runtime": 0.63935154475,
+          "runtime_warmup": 0.66478149600000003,
+          "runtimes": [
+            0.719760697,
+            0.77598219800000001,
+            0.53905710200000001,
+            0.52260618200000009
+          ],
+          "valid": 1,
+          "rate": 100101.42389665353,
+          "work": 64000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Multi-Core",
+      "id": 2,
+      "score": 20904,
+      "valid": 1,
+      "workloads": [
+        {
+          "name": "File Compression",
+          "id": 101,
+          "units": 2,
+          "threads": 20,
+          "score": 10927,
+          "factory_clock": 144.99041717200001,
+          "factory_runtime": 0.082299168000000006,
+          "workload_clock": 145.07272853200001,
+          "runtime": 0.38011293275000002,
+          "runtime_warmup": 0.39228454600000001,
+          "runtimes": [
+            0.37988188900000003,
+            0.373946377,
+            0.37121953300000005,
+            0.39540393200000001
+          ],
+          "valid": 1,
+          "rate": 1645456247.634079,
+          "work": 625459200,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Navigation",
+          "id": 102,
+          "units": 26,
+          "threads": 20,
+          "score": 24568,
+          "factory_clock": 151.99081283300001,
+          "factory_runtime": 1.5735000000000001e-5,
+          "workload_clock": 151.990839212,
+          "runtime": 0.16213294625000002,
+          "runtime_warmup": 0.18220377600000001,
+          "runtimes": [
+            0.15773316600000001,
+            0.17481864300000002,
+            0.142159757,
+            0.173820219
+          ],
+          "valid": 1,
+          "rate": 148.02666919401642,
+          "work": 24,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "HTML5 Browser",
+          "id": 103,
+          "units": 25,
+          "threads": 20,
+          "score": 25146,
+          "factory_clock": 157.99776529500002,
+          "factory_runtime": 0.0098372950000000011,
+          "workload_clock": 158.00761200800002,
+          "runtime": 0.062162864750000005,
+          "runtime_warmup": 0.10241791600000001,
+          "runtimes": [
+            0.064988607000000004,
+            0.058499443000000005,
+            0.062424141000000002,
+            0.062739268000000001
+          ],
+          "valid": 1,
+          "rate": 514.77679043097828,
+          "work": 32,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "PDF Renderer",
+          "id": 104,
+          "units": 9,
+          "threads": 20,
+          "score": 23377,
+          "factory_clock": 163.53010567000001,
+          "factory_runtime": 0.0016597960000000001,
+          "workload_clock": 163.53177612100001,
+          "runtime": 0.25911424425000001,
+          "runtime_warmup": 0.32050666300000002,
+          "runtimes": [
+            0.27892254100000002,
+            0.26906600600000002,
+            0.24261080400000001,
+            0.24585762600000002
+          ],
+          "valid": 1,
+          "rate": 539117254.64703,
+          "work": 139692960,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Photo Library",
+          "id": 105,
+          "units": 20,
+          "threads": 20,
+          "score": 29236,
+          "factory_clock": 170.02385093400002,
+          "factory_runtime": 0.030765430000000003,
+          "workload_clock": 170.05462866900001,
+          "runtime": 0.16129759725000001,
+          "runtime_warmup": 0.315031002,
+          "runtimes": [
+            0.167469803,
+            0.15865844200000001,
+            0.162373087,
+            0.15668905700000002
+          ],
+          "valid": 1,
+          "rate": 396.78210395660432,
+          "work": 64,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Clang",
+          "id": 201,
+          "units": 23,
+          "threads": 20,
+          "score": 43343,
+          "factory_clock": 176.82395669800002,
+          "factory_runtime": 0.002503796,
+          "workload_clock": 176.82646930000001,
+          "runtime": 0.43959146700000001,
+          "runtime_warmup": 0.46210036600000004,
+          "runtimes": [
+            0.43798766900000002,
+            0.43193136400000004,
+            0.453159957,
+            0.43528687800000004
+          ],
+          "valid": 1,
+          "rate": 213470.93163662343,
+          "work": 93840,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Text Processing",
+          "id": 202,
+          "units": 25,
+          "threads": 1,
+          "score": 3965,
+          "factory_clock": 184.05615051500001,
+          "factory_runtime": 0.026984935000000002,
+          "workload_clock": 184.08314589600002,
+          "runtime": 0.60151456850000007,
+          "runtime_warmup": 0.69865479600000002,
+          "runtimes": [
+            0.55347802099999999,
+            0.64703012900000001,
+            0.52707502900000003,
+            0.67847509500000003
+          ],
+          "valid": 1,
+          "rate": 317.53179391198734,
+          "work": 191,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Asset Compression",
+          "id": 203,
+          "units": 2,
+          "threads": 20,
+          "score": 37740,
+          "factory_clock": 192.30677310600001,
+          "factory_runtime": 0.030938028000000003,
+          "workload_clock": 192.33772303800001,
+          "runtime": 0.11443226350000001,
+          "runtime_warmup": 0.11947941000000001,
+          "runtimes": [
+            0.11364832300000001,
+            0.11451955500000001,
+            0.11365151800000001,
+            0.11590965800000001
+          ],
+          "valid": 1,
+          "rate": 1226212570.7231159,
+          "work": 140318280,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Object Detection",
+          "id": 301,
+          "units": 20,
+          "threads": 20,
+          "score": 13066,
+          "factory_clock": 197.92216431,
+          "factory_runtime": 0.120560103,
+          "workload_clock": 198.04273766100002,
+          "runtime": 0.16368940074999999,
+          "runtime_warmup": 0.42622068500000004,
+          "runtimes": [
+            0.163099619,
+            0.16320580000000001,
+            0.169409631,
+            0.159042553
+          ],
+          "valid": 1,
+          "rate": 390.98438693502277,
+          "work": 64,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Background Blur",
+          "id": 302,
+          "units": 20,
+          "threads": 20,
+          "score": 19306,
+          "factory_clock": 204.18754440200001,
+          "factory_runtime": 0.064950988000000001,
+          "workload_clock": 204.25250861200001,
+          "runtime": 0.12515430600000002,
+          "runtime_warmup": 0.15944873500000001,
+          "runtimes": [
+            0.120253252,
+            0.128309066,
+            0.13026507000000001,
+            0.12178983600000001
+          ],
+          "valid": 1,
+          "rate": 79.901365918644444,
+          "work": 10,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Horizon Detection",
+          "id": 401,
+          "units": 9,
+          "threads": 20,
+          "score": 30231,
+          "factory_clock": 209.923371441,
+          "factory_runtime": 0.17112706800000002,
+          "workload_clock": 210.09451707800002,
+          "runtime": 0.051024028250000006,
+          "runtime_warmup": 0.12547201300000002,
+          "runtimes": [
+            0.051739940000000005,
+            0.051337840000000003,
+            0.050095072000000004,
+            0.050923261000000004
+          ],
+          "valid": 1,
+          "rate": 940733251.49509323,
+          "work": 48000000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Object Remover",
+          "id": 402,
+          "units": 9,
+          "threads": 20,
+          "score": 22383,
+          "factory_clock": 215.44825565000002,
+          "factory_runtime": 0.103951082,
+          "workload_clock": 215.55221872300001,
+          "runtime": 0.20972343225000001,
+          "runtime_warmup": 0.24325368000000003,
+          "runtimes": [
+            0.22828047100000001,
+            0.20301281500000001,
+            0.20640987000000002,
+            0.20119057300000001
+          ],
+          "valid": 1,
+          "rate": 1720948470.6971745,
+          "work": 360923220,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "HDR",
+          "id": 403,
+          "units": 9,
+          "threads": 20,
+          "score": 18750,
+          "factory_clock": 221.64558260800001,
+          "factory_runtime": 0.0032630830000000004,
+          "workload_clock": 221.64885612600003,
+          "runtime": 0.1207792255,
+          "runtime_warmup": 0.214562526,
+          "runtimes": [
+            0.130764729,
+            0.12488225000000001,
+            0.121550032,
+            0.105919891
+          ],
+          "valid": 1,
+          "rate": 550206409.46236241,
+          "work": 66453504,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Photo Filter",
+          "id": 404,
+          "units": 20,
+          "threads": 20,
+          "score": 12036,
+          "factory_clock": 227.38121726600002,
+          "factory_runtime": 3.4330000000000005e-5,
+          "workload_clock": 227.38126153200002,
+          "runtime": 0.0837371955,
+          "runtime_warmup": 0.088902843000000009,
+          "runtimes": [
+            0.087534270000000011,
+            0.080637881000000008,
+            0.085314045000000005,
+            0.081462586000000003
+          ],
+          "valid": 1,
+          "rate": 119.42124333504816,
+          "work": 10,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Ray Tracer",
+          "id": 501,
+          "units": 9,
+          "threads": 20,
+          "score": 49211,
+          "factory_clock": 233.32294574700001,
+          "factory_runtime": 0.69020545300000002,
+          "workload_clock": 234.01317052600001,
+          "runtime": 0.021000177750000001,
+          "runtime_warmup": 0.021632726000000001,
+          "runtimes": [
+            0.020812895000000001,
+            0.020758139000000002,
+            0.020995302,
+            0.021434375000000002
+          ],
+          "valid": 1,
+          "rate": 47618644.56123472,
+          "work": 1000000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Structure from Motion",
+          "id": 502,
+          "units": 9,
+          "threads": 20,
+          "score": 31519,
+          "factory_clock": 239.28091596700003,
+          "factory_runtime": 0.13384090400000001,
+          "workload_clock": 239.41476808000002,
+          "runtime": 0.06413002050000001,
+          "runtime_warmup": 0.097848163000000002,
+          "runtimes": [
+            0.062521685000000007,
+            0.065082575000000004,
+            0.064829420999999998,
+            0.064086401000000001
+          ],
+          "valid": 1,
+          "rate": 997972.54859757901,
+          "work": 64000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        }
+      ]
+    }
+  ],
+  "complete_benchmark": 1
+}
